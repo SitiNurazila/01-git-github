@@ -2,13 +2,20 @@
 
 Langkah- Langkah Praktik Github :
 1. Membuat account github
+
     o	Membuat account github dengan memasukan username, email dan pasword.
+    
     o	Lalu melakukan konfirmasi melalui email.
+    
     o	Login dengan account yang sudah dibuat.
 2. Menginstal Git
+
     o	Download git pada https://git-scm.com/downloads (sesuaikan dengan sistem operasi laptop).
+   
     o	Lakukan instalasi.
+    
     o	Untuk cek instalasi dapat menggunakan command prompt dengan eksekusi "git --version".
+    
 3. Melakukan konfigurasi 
     o	Konfigurasi git dapat menggunakan command prompt dengan eksekusi :
 		  git config --global user.name "Nama Anda di GitHub"
